@@ -2,6 +2,6 @@
 using namespace std;
 class khekale{
 	public:khekale{
-		cout<<"Happy Birthday Star Rajni";
+		cout<<"Happy Birthday Star";
 	}
 };
