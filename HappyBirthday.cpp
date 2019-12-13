@@ -3,5 +3,6 @@ using namespace std;
 class khekale{
 	public:khekale{
 		cout<<"Happy Birthday Star Rajni";
+		cout<<"hbd yuvraj sing";
 	}
 };
